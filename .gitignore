@@ -2,7 +2,7 @@
     config/.env
 
     # Python
-    __pycache__/
+    __pycache__/*
     *.py[cod]
     *$py.class
     *.so
@@ -30,7 +30,6 @@
     env/
     ENV/
     .agentic
-    __pycache__/
 
     # IDEs
     .vscode/
